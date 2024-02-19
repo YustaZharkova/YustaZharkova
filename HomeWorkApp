@@ -1,8 +1,0 @@
-// объявляем класс с именем Simple
-public class Simple {
-// объявляем главный метод main
-public static void main(String[] args) {
-// выводим на экран строку "Простой код на Java"
-System.out.println("Простой код на Java");
-}
-}
